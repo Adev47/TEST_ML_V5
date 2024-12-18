@@ -39,14 +39,6 @@
             "imageUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/FORTNITE.gif",
             "downloadUrl": "https://raw.githubusercontent.com/Adev47/TEST_ML/main/uploads/Winc_2.3_1.exe",
             "status": "online"
-        },
-        {
-            "id": "VALORANT PRIVATE",
-            "name": "the BesVALORANT EXTERNAL CHAIR",
-            "categoryId": "valorant",
-            "imageUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/VALORANT.gif",
-            "downloadUrl": "https://raw.githubusercontent.com/Adev47/TEST_ML/main/uploads/Winc_2.3_1.exe",
-            "status": "online"
         }
     ]
 }
